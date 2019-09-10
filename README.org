@@ -6,8 +6,8 @@ A collection of fonts (with attribution if possible) that are a bit hard to find
 #+END_QUOTE
 
 * Font list
-- Fira Code Symbol (from [[https://github.com/tonsky/FiraCode/issues/211#issuecomment-239058632][tonsky/FiraCode/issues/211]] by [[https://github.com/siegebell][@siegebell]])
-
+- [[./FiraCode-Regular-Symbol.otf][Fira Code Symbol]] (from [[https://github.com/tonsky/FiraCode/issues/211#issuecomment-239058632][tonsky/FiraCode/issues/211]] by [[https://github.com/siegebell][@siegebell]])
+ 
   This is needed to get ligatures in Emacs working (for example, via
   =prettify-symbols= package)
 
