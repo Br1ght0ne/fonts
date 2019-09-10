@@ -1,0 +1,22 @@
+#+TITLE: README
+
+* Fonts
+
+#+BEGIN_QUOTE
+A collection of fonts (with attribution if possible) that are a bit hard to find on the web.
+#+END_QUOTE
+
+** Font list
+- Fira Code Symbol (from [[https://github.com/tonsky/FiraCode/issues/211#issuecomment-239058632][tonsky/FiraCode/issues/211]] by [[https://github.com/siegebell][@siegebell]])
+  This is needed to get ligatures in Emacs working (for example, via
+  =prettify-symbols= package)
+
+** Licensing
+I'll try to attribute fonts to their origins where possible.
+
+Though, I'd like to make a disclaimer that *no* fonts in this repository are
+either commercial/proprietary or made by me (in the latter case they would have
+a separate repository).
+
+The implication is: *no* contributions will be accepted (at least for now).
+Bear with me.
